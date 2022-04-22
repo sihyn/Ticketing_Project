@@ -1,5 +1,5 @@
-# Ticketing_Project
-🎠놀이공원 티켓 발급 프로그램(JAVA)
+# 🎠Ticketing_Project
+놀이공원 티켓 발급 프로그램(JAVA)
 
 This is an amusementpark ticketing program.
 
