@@ -1,4 +1,6 @@
 # Ticketing_Project
+🎠놀이공원 티켓 발급 프로그램(JAVA)
+
 This is an amusementpark ticketing program.
 
 (Refer to price of Lotte World ticket)
@@ -17,3 +19,13 @@ This is an amusementpark ticketing program.
 7. Ticketing_Main : Ticketing을 Main에서 실행
 
 ----------------------------------------------
+[출력된 결과화면]
+
+![image](https://user-images.githubusercontent.com/92166889/164578030-a8c00b7a-5e48-4cc9-9edf-9143ce5be265.png)
+
+[추가로 발권 시 결과화면]
+
+![image](https://user-images.githubusercontent.com/92166889/164578687-1829afb3-c997-42b6-b949-1e217c7941ed.png)
+
+
+
